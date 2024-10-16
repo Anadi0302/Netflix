@@ -69,7 +69,7 @@ Some of the key insights derived from the project include:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/netflix-analysis.git
+   git clone https://github.com/Anadi0302/netflix-analysis.git
    ```
 2. **SQL Queries**: The SQL scripts used for data extraction are in the `/sql` folder.
 3. **Tableau Dashboards**: The Tableau dashboards can be found in the `/tableau` folder. Open them in Tableau Desktop to explore the insights.
